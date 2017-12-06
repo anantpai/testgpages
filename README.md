@@ -1,2 +1,2 @@
 # testgpages
-Testing Github Pages
+Write some funny things.
